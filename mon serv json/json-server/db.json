@@ -1,0 +1,55 @@
+{
+  "list_materiel": [
+  {
+    "objet": "Ballon",
+    "type": "Divertissement",
+    "description": "voici une description",
+    "Assos": "A",
+    "statue": "true",
+    "caution": "5",
+    "quantiteMax": "10",
+    "id": "1"
+  },
+  {
+    "objet": "PS5",
+    "type": "Divertissement",
+    "description": "voici une description",
+    "Assos": "B",
+    "statue": "false",
+    "caution": "500",
+    "quantiteMax": "1",
+    "id": "2"
+  },
+  {
+    "objet": "Crêpière",
+    "type": "Electromenager",
+    "description": "voici une description",
+    "Assos": "C",
+    "statue": "true",
+    "caution": "10",
+    "quantiteMax": "2",
+    "id": "3"
+  },
+  {
+    "objet": "Amphi Chappe",
+    "type": "Salle",
+    "description": "voici une description",
+    "Assos": "D",
+    "statue": "true",
+    "caution": "0",
+    "quantiteMax": "1",
+    "id": "4"
+  }
+],
+
+  "reserved_materiel": [
+    { "id": 1, "body": "some comment", "postId": 1 
+
+
+    }
+  ],
+
+
+
+  "profile": { "name": "typicode" }
+}
